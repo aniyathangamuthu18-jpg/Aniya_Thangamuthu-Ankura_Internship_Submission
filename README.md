@@ -38,8 +38,7 @@ The walkthrough page guides you through:
 ## Submission Deliverables
 
 - **Working Build:** Hosted and live at [https://thinking-into-slides.lovable.app/](https://thinking-into-slides.lovable.app/)
-- **5-Page Slide Deck:** Located in the repository root as `MedInfo_Desk_submission_v3.pptx` (PowerPoint) and `MedInfo_Desk_submission_v3.pdf` (PDF), covering problem definition, architecture trade-offs, measured benchmark results, governance controls, and pilot criteria.
-
+- **5-Page Slide Deck:** Attached to the email.
 ---
 
 ## Running Locally (Optional)
