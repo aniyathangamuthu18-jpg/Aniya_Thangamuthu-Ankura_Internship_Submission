@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project rules
+- MedInfo routing/retrieval lives only in `src/lib/medinfo/engine.ts`; Desk and Evaluation both call it so reported numbers match app behaviour.
+- Demo state (case status, audit log, expert answers) is browser-local via `src/lib/medinfo/store.ts`; no backend, because the prototype must open with no login.
