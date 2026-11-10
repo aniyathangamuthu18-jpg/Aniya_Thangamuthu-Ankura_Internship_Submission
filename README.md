@@ -35,6 +35,10 @@ The walkthrough page guides you through:
 
 ---
 
+## Results Summary
+Across 23 synthetic enquiries, MedInfo Desk met all 18 expected outcomes on the core set, produced no unsafe drafts, and included sentence-level citations in all 6 answer drafts. It achieved 3/5 on the challenge set; the two misses involved paraphrases the keyword retriever did not match, and the system abstained rather than guessing. These results support the choice to prioritise traceability and safe abstention over answer coverage. They are promising for a controlled prototype, but do not establish clinical accuracy or time savings. Further testing should use an independently labelled, held-out set and assess whether improved retrieval can address the paraphrase misses without weakening the risk gates.
+
+---
 ## Submission Deliverables
 
 - **Working Build:** Hosted and live at [https://thinking-into-slides.lovable.app/](https://thinking-into-slides.lovable.app/)
