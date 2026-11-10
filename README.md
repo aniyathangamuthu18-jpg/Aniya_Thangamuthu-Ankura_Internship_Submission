@@ -18,7 +18,7 @@ The walkthrough page guides you through:
    - **Green Pathway:** Routine, on-label enquiry (e.g., Luma-17 storage temperature) producing an exact-quote draft with inline document citations.
    - **Amber Pathway:** Out-of-domain or off-label request (e.g., pediatric dosing or combination therapies) safely escalating to medical experts with zero ungrounded hallucination.
    - **Red Pathway:** Safety, adverse event, or pregnancy risk triggering instant hard routing to Pharmacovigilance.
-3. **Audit Trail & Governance:** How every decision and source version is permanently logged.
+3. **Audit Trail & Governance:** How the demo records routing decisions and source versions in a local browser audit trail. Entries are not immutable or production grade.
 
 ---
 
@@ -31,7 +31,7 @@ The walkthrough page guides you through:
 | `/evaluation` | **Live Benchmark** | Run the automated 23-case clinical benchmark directly in-browser (18/18 core pass rate, 0 unsafe drafts). |
 | `/library` | **Source Library** | Inspect active vs. superseded document versions (e.g., verified exclusion of v1.0 storage data). |
 | `/experts` | **Review Queue** | Medical Information expert triage, draft editing, and compliant sign-off workflow. |
-| `/audit` | **Compliance Trail** | Immutable log tracking routing rules, matched document IDs, and human actions. |
+| `/audit` | **Demo Audit Trail** | Browser-local records of routing decisions, matched source IDs and versions, and human actions. Entries can be cleared; a live system would require a tamper-evident, access-controlled audit store. |
 
 ---
 
