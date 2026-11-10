@@ -1,7 +1,7 @@
 # MedInfo Desk: build and slides plan (due Wed 11 Nov, 5:30pm GMT)
 
-## About the Replit link
-I can't open it. It's an invite link that needs a Replit login, and I can't sign in there. To bring that work across, open the Repl, choose **⋮ → Download as zip**, and attach the zip here (or paste the main files). Until then, your `index.html` stands in for the Replit version.
+## About the Replit work
+I couldn't open the invite link, but the bundle you uploaded has everything I need. It contains the finished website (compressed into a single file, without its original editable code), a 5-slide deck (PPTX and PDF), an 18-case test set, and a local server script. The plan is to rebuild that website here as one link assessors can open, with no download and no Python, keeping your features and wording. Then we upgrade it. The new deck builds on the Replit deck, which is already stronger than v2.
 
 ## What you already have and how each file gets used
 - **Brief (.md)**: Scenario 3, Pharma Medical Information. That's the right pick: it's the easiest to scope, and traceable sources plus expert review show the most reasoning.
